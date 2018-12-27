@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Agent
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: thundercrawl
+Specification-Title: Agent
+Implementation-Vendor-Id: CTTL_Test
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_121
+Specification-Version: 0.0
+
